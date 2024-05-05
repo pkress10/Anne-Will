@@ -1,0 +1,38 @@
+id,name,party,sector,country,type
+cdu,CDU,NA,1,Deutschland,3
+spd,SPD,NA,1,Deutschland,3
+linke,Die Linke,NA,1,Deutschland,3
+fdp,FDP,NA,1,Deutschland,3
+grüne,Bündnis Grüne,NA,1,Deutschland,3
+afd,AfD,NA,1,Deutschland,3
+alp,Ausländische Partei,NA,1,International,3
+fh,Folge fünfhuindert,NA,NA,Deutschland,2
+fhe,Folge fünfhundertundeins,NA,NA,Deutschland,2
+fhz,Folge fünfhundertzwei,NA,NA,Deutschland,2
+fhd,Folge fünfhundertdrei,NA,NA,Deutschland,2
+fhv,Folge fünfhundertvier,NA,NA,Deutschland,2
+fhf,Folge fünfhundertfünf,NA,NA,Deutschland,2
+aw,Anne Will,NA,2,Deutschland,1
+uvdl,Ursula von der Leyen,CDU,1,Belgien,1
+lk,Lars Klingbeil,SPD,1,Deutschland,1
+nr,Norbert Röttgen,CDU,1,Deutschland,1
+sw,Sahra Wagenknecht,Die Linke,1,Deutschland,1
+cs,Constanze Stelzenmüller,NA,4,Deutschland,1
+cl,Christian Lindner,FDP,1,Deutschland,1
+ks,Karl Schlögel,NA,5,Deutschland,1
+im,Ljudmyla Melnyk,NA,3,Ukraine,1
+kd,Kristina Dunz,NA,2,Deutschland,1
+ab,Annalena Baerbock,Grüne,1,Deutschland,1
+ft,Frans Timmermans,alp,1,Niederlande,1
+am,Andreij Melnyk,NA,6,Ukraine,1
+er,Egon Ramms,NA,6,Deutschland,1
+rh,Robert Habeck,Grüne,1,Deutschland,1
+cm,Claudia Major,NA,3,Deutschland,1
+kp,Katja Petrowskaja,NA,2,Ukraine,1
+rk,Roderich Kiesewetter,CDU,1,Deutschland,1
+clb,Christian Lambrecht,SPD,1,Deutschland,1
+agl,Alexander Graf Lambrecht,FDP,1,Deutschland,1
+sb,Stefanie Bast,NA,6,Deutschland,1
+ch,Christian Heuseg,NA,6,Deutschland,1
+mw,Marina Weisband,NA,2,Deutschland,1
+os,Olaf Scholz,SPD,1,Deutschland,1
