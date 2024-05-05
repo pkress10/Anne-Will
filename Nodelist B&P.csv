@@ -1,4 +1,4 @@
-id,name,party,sector,country,type
+id,person,party,sector,country,type
 cdu,CDU,NA,1,Deutschland,3
 spd,SPD,NA,1,Deutschland,3
 linke,Die Linke,NA,1,Deutschland,3
